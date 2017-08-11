@@ -1,5 +1,8 @@
 # タスクリスト
 
+* サンプル
+   * http://kappaintheriver.sakura.ne.jp
+
 * 機能
     * ユーザー登録
     * ログイン、ログアウト
